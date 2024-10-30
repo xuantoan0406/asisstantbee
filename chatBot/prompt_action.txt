@@ -1,0 +1,6 @@
+Classify the following sentence and respond with only one of the following numbers:
+
+1 if the sentence is "General Chat": These are questions, exchanges, or conversations that do not include a request to create an image.
+2 if the sentence is an "Image Creation": These sentences contain descriptions or references to a character, including detailed descriptions or suggestions about an image, an image description, or an intent to see an image.
+0 if the sentence is "Both (Chat and Image Creation)": These are sentences that include general conversation as well as a descriptive image request.
+Respond only with the corresponding number without any additional explanation.
